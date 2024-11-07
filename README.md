@@ -1,9 +1,7 @@
 ### Hi 👋
 
-<div>
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=alims-repo&show_icons=true&include_all_commits=true&count_private=true&theme=cobalt" />
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alims-repo&layout=compact&theme=cobalt&langs_count=6" />
-</div>
+<img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=alims-repo&show_icons=true&include_all_commits=true&count_private=true&theme=cobalt" />
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alims-repo&layout=compact&theme=cobalt&langs_count=7" />
 
 <div style="display: flex; align-items: center; justify-content:center"><br>
 <!--   <img title="flutter" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
