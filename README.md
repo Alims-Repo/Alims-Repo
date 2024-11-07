@@ -37,6 +37,10 @@
 ---
 
 <p align="center">
+  <i>"Strive not to be a success, but rather to be of value." – Albert Einstein</i>
+</p>
+
+<p align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
 </p>
 
