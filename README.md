@@ -1,16 +1,21 @@
-### Hi there 👋 I'm @Alims-Repo
+<h2 align="center">Hi there 👋 I'm @Alims-Repo</h2>
 
 <p align="center">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=alims-repo&show_icons=true&include_all_commits=true&count_private=true&theme=cobalt" />
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alims-repo&layout=compact&theme=cobalt&langs_count=7" />
+  <i>Android Developer | Exploring iOS Development | Passionate about Crafting Mobile Experiences</i>
 </p>
 
-<p align="center">
-  <b>Technologies & Tools I Work With</b>
-</p>
+---
 
 <p align="center">
-  <img title="Android (Java)" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=alims-repo&show_icons=true&include_all_commits=true&count_private=true&theme=calm" />
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alims-repo&layout=compact&theme=calm&langs_count=7" />
+</p>
+
+---
+
+### 🛠️ Technologies & Tools
+<p align="center">
+  <img title="Android" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
   &nbsp;
   <img title="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   &nbsp;
@@ -23,12 +28,18 @@
 
 ---
 
-- 👋 Hi, I’m **@Alims-Repo**
-- 👀 I’m passionate about **Android Development**
-- 🌱 Currently exploring **iOS Development**
+### 👨‍💻 About Me
+- **💼 Currently focused on**: Android Development
+- **🌱 Learning**: iOS Development
+- **💬 Ask me about**: Mobile app development, Firebase, Kotlin, and Android best practices
+- **📫 How to reach me**: [Your LinkedIn or Email Here]
 
 ---
 
 <p align="center">
-  <i>“Strive not to be a success, but rather to be of value.” - Albert Einstein</i>
+  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/alims-repo"><img src="https://img.shields.io/github/followers/alims-repo?label=Follow&style=social" alt="GitHub Followers"></a>
 </p>
