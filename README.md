@@ -2,7 +2,7 @@
 
 <div>
     <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=alims-repo&show_icons=true&include_all_commits=true&count_private=true&theme=cobalt" />
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alims-repo&layout=compact&theme=cobalt&langs_count=7" />
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alims-repo&layout=compact&theme=cobalt&langs_count=6" />
 </div>
 
 <div style="display: flex; align-items: center; justify-content:center"><br>
