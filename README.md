@@ -41,15 +41,11 @@
   &nbsp;
   <img title="Xcode" height="40" width="40" src="https://developer.apple.com/assets/elements/icons/xcode/xcode-128x128.png" />
   &nbsp;
-  <img title="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  &nbsp;
   <img title="Slack" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
   &nbsp;
   <img title="Visual Studio Code" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   &nbsp;
   <img title="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  &nbsp;
-  <img title="Jira" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
 </p>
 
 
