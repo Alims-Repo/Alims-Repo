@@ -31,15 +31,11 @@
   &nbsp;
   <img title="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   &nbsp;
-  <img title="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  &nbsp;
-  <img title="Bitbucket" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />
-  &nbsp;
   <img title="Postman" height="40" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
   &nbsp;
   <img title="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   &nbsp;
-  <img title="Jetpack Compose" height="40" width="40" src="https://developer.android.com/images/brand/Android_Robot.png" />
+  <img title="Jetpack Compose" height="40" width="40" src="https://developer.android.com/static/images/spot-icons/jetpack-compose.svg" />
   &nbsp;
   <img title="IntelliJ IDEA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
   &nbsp;
