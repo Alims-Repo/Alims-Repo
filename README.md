@@ -59,7 +59,7 @@
 - **💼 Currently focused on**: Android Development
 - **🌱 Learning**: iOS Development
 - **💬 Ask me about**: Mobile app development, Firebase, Kotlin, and Android best practices
-- **📫 How to reach me**: [Your LinkedIn or Email Here]
+- **📫 How to reach me**: [sourav.0.alim@gmail.com](mailto:sourav.0.alim@gmail.com)
 
 ---
 
