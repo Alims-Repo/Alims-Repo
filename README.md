@@ -21,16 +21,41 @@
   &nbsp;
   <img title="Kotlin" height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZKKrFk1q68BICwyRZrt5IVmoexiPeALv5D2kPK9YJFA&s" />
   &nbsp;
-   <img title="Swift UI" height="40" width="40" src="https://img.icons8.com/fluent/512/swiftui.png" />
+  <img title="Swift UI" height="40" width="40" src="https://img.icons8.com/fluent/512/swiftui.png" />
   &nbsp;
-  <img title="Mongo DB" height="40" width="40" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
+  <img title="MongoDB" height="40" width="40" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
   &nbsp;
   <img title="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   &nbsp;
-  <img title="Docker" height="40" width="40" src="https://static-00.iconduck.com/assets.00/docker-icon-2048x1753-uguk29a7.png" />
-  &nbsp;
   <img title="Firebase" height="40" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-firebase-icon.png" />
+  &nbsp;
+  <img title="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  &nbsp;
+  <img title="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  &nbsp;
+  <img title="Bitbucket" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />
+  &nbsp;
+  <img title="Postman" height="40" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+  &nbsp;
+  <img title="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  &nbsp;
+  <img title="Jetpack Compose" height="40" width="40" src="https://developer.android.com/images/brand/Android_Robot.png" />
+  &nbsp;
+  <img title="IntelliJ IDEA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+  &nbsp;
+  <img title="Xcode" height="40" width="40" src="https://developer.apple.com/assets/elements/icons/xcode/xcode-128x128.png" />
+  &nbsp;
+  <img title="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  &nbsp;
+  <img title="Slack" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
+  &nbsp;
+  <img title="Visual Studio Code" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  &nbsp;
+  <img title="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  &nbsp;
+  <img title="Jira" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
 </p>
+
 
 ---
 
