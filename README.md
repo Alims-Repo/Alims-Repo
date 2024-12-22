@@ -21,6 +21,8 @@
   &nbsp;
   <img title="Kotlin" height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZKKrFk1q68BICwyRZrt5IVmoexiPeALv5D2kPK9YJFA&s" />
   &nbsp;
+   <img title="Swift UI" height="40" width="40" src="https://img.icons8.com/fluent/512/swiftui.png" />
+  &nbsp;
   <img title="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   &nbsp;
   <img title="Firebase" height="40" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-firebase-icon.png" />
