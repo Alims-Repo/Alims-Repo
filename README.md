@@ -25,7 +25,7 @@
   &nbsp;
   <img title="MongoDB" height="40" width="40" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
   &nbsp;
-  <img title="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img title="MySQL" height="40" width="40" src="https://banner2.cleanpng.com/20180411/wre/avf0mauoj.webp" />
   &nbsp;
   <img title="Firebase" height="40" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-firebase-icon.png" />
   &nbsp;
