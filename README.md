@@ -15,17 +15,17 @@
 
 ### 🛠️ Technologies & Tools
 <p align="center">
-  <img title="Android" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+  <img title="Android" height="40" width="40" src="https://svgmix.com/uploads/c6ab02-android-logomark.svg" />
   &nbsp;
-  <img title="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img title="Java" height="40" width="40" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" />
   &nbsp;
   <img title="Kotlin" height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZKKrFk1q68BICwyRZrt5IVmoexiPeALv5D2kPK9YJFA&s" />
   &nbsp;
-  <img title="Swift UI" height="40" width="40" src="https://img.icons8.com/fluent/512/swiftui.png" />
+  <img title="Swift UI" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968371.png" />
   &nbsp;
-  <img title="MongoDB" height="40" width="40" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
+  <img title="MongoDB" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175140.png?f=webp" />
   &nbsp;
-  <img title="MySQL" height="40" width="40" src="https://banner2.cleanpng.com/20180411/wre/avf0mauoj.webp" />
+  <img title="MySQL" height="40" width="40" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" />
   &nbsp;
   <img title="Firebase" height="40" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-firebase-icon.png" />
   &nbsp;
@@ -33,7 +33,7 @@
   &nbsp;
   <img title="Postman" height="40" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
   &nbsp;
-  <img title="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img title="Docker" height="40" width="40" src="https://static-00.iconduck.com/assets.00/docker-icon-2048x1753-uguk29a7.png" />
   &nbsp;
   <img title="Jetpack Compose" height="40" width="40" src="https://developer.android.com/static/images/spot-icons/jetpack-compose.svg" />
   &nbsp;
