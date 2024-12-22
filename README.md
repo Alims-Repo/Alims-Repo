@@ -23,7 +23,11 @@
   &nbsp;
    <img title="Swift UI" height="40" width="40" src="https://img.icons8.com/fluent/512/swiftui.png" />
   &nbsp;
+  <img title="Mongo DB" height="40" width="40" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
+  &nbsp;
   <img title="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  &nbsp;
+  <img title="Docker" height="40" width="40" src="https://static-00.iconduck.com/assets.00/docker-icon-2048x1753-uguk29a7.png" />
   &nbsp;
   <img title="Firebase" height="40" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-firebase-icon.png" />
 </p>
