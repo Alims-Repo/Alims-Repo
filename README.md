@@ -1,4 +1,8 @@
-<h2 align="center">Hi there 👋 I'm @Alims-Repo</h2>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Abdul+Alim....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 <p align="center">
   <i>Android Developer | Exploring iOS Development | Passionate about Crafting Mobile Experiences</i>
@@ -6,10 +10,20 @@
 
 ---
 
-<p align="center">
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=alims-repo&show_icons=true&include_all_commits=true&count_private=true&theme=calm" />
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alims-repo&layout=compact&theme=calm&langs_count=8" />
+### Github Stats:
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alims-repo&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Abdul alims's GitHub status" />
 </p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alims-repo&theme=algolia" alt="alims-repo" />
+</p>
+
+---
+
+### Top Usage Languages:
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alims-repo&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
 
 ---
 
