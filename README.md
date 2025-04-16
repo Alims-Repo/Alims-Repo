@@ -63,7 +63,8 @@ AbdulAlim.sayHi()
 
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=alims-repo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1b27&text_color=a9fef7&icon_color=f8d847&title_color=fe6e96" alt="Abdul's GitHub Stats" />
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=alims-repo&theme=tokyonight&hide_border=true&background=1a1b27&stroke=fe6e96&ring=f8d847&fire=fe6e96&currStreakNum=a9fef7&sideNums=a9fef7&currStreakLabel=f8d847&sideLabels=fe6e96&dates=a9fef7" alt="Streak Stats" />
+  
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=alims-repo&theme=algolia&hide_border=true" alt="Streak Stats" />
 </div>
 
 <div align="center">
