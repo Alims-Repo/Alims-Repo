@@ -67,7 +67,7 @@ AbdulAlim.sayHi()
 </div>
 
 <div align="center">
-  <img height="300em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alims-repo&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=1a1b27&text_color=a9fef7&icon_color=f8d847&title_color=fe6e96" alt="Top Languages" />
+  <img height="300em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alims-repo&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=1a1b27&text_color=a9fef7&icon_color=f8d847&title_color=fe6e96" alt="Top Languages" />
 </div>
 
 ## 🛠️ Technology Stack
