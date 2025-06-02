@@ -106,10 +106,10 @@ AbdulAlim.sayHi()
 ## 🌟 Showcase Projects
 
 <div align="center">
-  <a href="https://github.com/alims-repo">
+  <a href="https://github.com/Alims-Repo/Prayer-Times-KMM">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=alims-repo&repo=Prayer-Times-KMM&theme=tokyonight&hide_border=true&bg_color=1a1b27&text_color=a9fef7&icon_color=f8d847&title_color=fe6e96" />
   </a>
-  <a href="https://github.com/alims-repo">
+  <a href="https://github.com/Alims-Repo/Quran-API">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=alims-repo&repo=Quran-API&theme=tokyonight&hide_border=true&bg_color=1a1b27&text_color=a9fef7&icon_color=f8d847&title_color=fe6e96" />
   </a>
 </div>
