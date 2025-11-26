@@ -221,9 +221,3 @@ I'm always open to interesting conversations and collaboration opportunities!
 **Thanks for visiting! ⭐️ Star some repos if you find them useful!**
 
 </div>
-
----
-
-<div align="center">
-<sub>💡 <i>Pro tip: Pin your best projects on your profile to showcase your work!</i></sub>
-</div>
