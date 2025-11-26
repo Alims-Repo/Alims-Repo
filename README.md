@@ -1,196 +1,229 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,%20World!%20👋;I'm%20Abdul%20Alim....;Mobile%20Developer%20Extraordinaire&font=Fira%20Code&center=true&width=600&height=50&duration=3000&pause=1000">
-</div>
+# Hi there, I'm Abdul Alim 👋
 
 <div align="center">
-  <a href="https://github.com/alims-repo">
-    <img src="https://img.shields.io/badge/Android-Developer-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Developer"/>
-  </a>
-  <a href="https://github.com/alims-repo">
-    <img src="https://img.shields.io/badge/iOS-Explorer-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS Explorer"/>
-  </a>
-  <a href="https://github.com/alims-repo">
-    <img src="https://img.shields.io/badge/Mobile-Craftsman-1DA1F2?style=for-the-badge&logo=react&logoColor=white" alt="Mobile Craftsman"/>
-  </a>
+
+### 🚀 Android & Kotlin Multiplatform Developer
+
+*Crafting exceptional mobile experiences where innovation meets reliability*
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-alims--repo.github.io-blue?style=for-the-badge&logo=github)](https://alims-repo.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdul-alim-monshi-5874511b2/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:sourav.0.alim@gmail.com)
+
 </div>
 
-<p align="center">
-  <i>Crafting exceptional mobile experiences where innovation meets reliability</i>
-</p>
-
-<div align="center">
-  <a href="mailto:sourav.0.alim@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/alims-repo">
-    <img src="https://img.shields.io/github/followers/alims-repo?label=Follow&style=for-the-badge&logo=github" alt="GitHub Followers"/>
-  </a>
-  <a href="https://linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
-
-<br>
+---
 
 ## 👨‍💻 About Me
 
 ```kotlin
 object AbdulAlim {
-    val role = "Android Developer"
+    val role = "Android & Kotlin Multiplatform Developer"
+    val location = "Dhaka, Bangladesh 🇧🇩"
+    val education = "BSc in Computer Science - Green University"
     
-    val languages = listOf("Kotlin", "Java", "Swift", "SQL")
+    val languages = listOf("Kotlin", "Java", "Swift", "SQL", "JavaScript")
+    
     val expertise = listOf(
-        "Mobile Architecture", 
-        "Jetpack Compose", 
-        "MVVM & Clean Code",
-        "UI/UX Implementation"
+        "Kotlin Multiplatform (KMM)",
+        "Jetpack Compose & SwiftUI",
+        "Android Architecture (MVVM, MVI, Clean Architecture)",
+        "Cross-Platform Development",
+        "RESTful APIs & Firebase",
+        "Material Design & UI/UX"
     )
     
-    val currentFocus = "Building scalable & beautiful mobile apps"
-    val lifePhilosophy = "Code elegantly, ship reliably"
+    val currentFocus = """
+        Building scalable cross-platform mobile apps
+        Contributing to open-source KMM ecosystem
+        Creating beautiful, performant user experiences
+    """.trimIndent()
+    
+    val lifePhilosophy = "Code elegantly, ship reliably, iterate constantly"
     
     fun sayHi() {
-        println("Thanks for visiting my profile! Let's build something amazing.")
+        println("Thanks for visiting! Let's build something amazing together 🚀")
     }
 }
 
 AbdulAlim.sayHi()
 ```
 
-<br clear="both">
+🎯 **Currently:** Freelance Android Developer building impactful mobile solutions  
+📚 **Learning:** Advanced Compose animations, KMP best practices, iOS development  
+💡 **Passionate about:** Islamic tech, developer tools, clean architecture  
 
-## 📊 GitHub Analytics
+---
+
+## 🏆 Featured Projects
+
+### 🕌 [Deen ul Islam](https://github.com/Alims-Repo/Deen-ul-Islam)
+**The Complete Islamic Companion App**
+
+A comprehensive Islamic app designed by Muslims for Muslims worldwide. Provides prayer times, Qibla direction, Quran recitation, and more.
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpack-compose&logoColor=white)
+![Material3](https://img.shields.io/badge/Material_3-1976D2?style=flat-square)
+
+**Features:** Prayer Times • Qibla Compass • Quran Reader • Islamic Calendar • Hadith Collection • Dua Library
+
+---
+
+### 📿 [Prayer Times KMM](https://github.com/Alims-Repo/Prayer-Times-KMM)
+**Cross-Platform Prayer Time Calculation Library**
+
+Lightweight Kotlin Multiplatform library for accurate Islamic prayer times across Android, iOS & JVM.
+
+![KMM](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Maven Central](https://img.shields.io/maven-central/v/io.github.alims-repo/prayer-times-kmm?style=flat-square)
+![Downloads](https://img.shields.io/badge/downloads-1k+-brightgreen?style=flat-square)
+
+**Tech:** Astronomical calculations • 11+ methods • Madhab support • High-latitude handling
+
+---
+
+### 🎨 [More Projects](https://github.com/Alims-Repo?tab=repositories)
+
+<details>
+<summary><b>Click to see more projects</b></summary>
+
+#### 📱 Mobile Apps
+- **Task Manager Pro** - Productivity app with offline-first architecture
+- **Recipe Book** - Social cooking app with Firebase backend
+- **Weather Now** - Beautiful weather app with animated UI
+
+#### 🛠️ Libraries & Tools
+- **Compose Utilities** - Reusable Compose components collection
+- **Network Layer KMM** - Type-safe networking for KMP projects
+
+#### 🔬 Experiments & Learning
+- **Compose Canvas Art** - Creative animations and custom drawings
+- **KMP Samples** - Learning projects exploring KMP capabilities
+
+</details>
+
+---
+
+## 💼 Core Values
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=alims-repo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1b27&text_color=a9fef7&icon_color=f8d847&title_color=fe6e96" alt="Abdul's GitHub Stats" />
-  <img height="200em" src="https://streak-stats.demolab.com?user=alims-repo&theme=algolia&hide_border=true" alt="Streak Stats" />
-<!--   <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=alims-repo&theme=algolia&hide_border=true" alt="Streak Stats" /> -->
+
+| 🎯 Clean Code | 👤 User First | ⚡ Performance | 🤝 Collaboration |
+|:---:|:---:|:---:|:---:|
+| Readable, maintainable, tested | Intuitive, accessible, delightful | Fast, efficient, optimized | Team-oriented, open-minded |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frameworks & Libraries
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
+![Kotlin Multiplatform](https://img.shields.io/badge/KMM-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Architecture & Patterns
+![MVVM](https://img.shields.io/badge/MVVM-FF6B6B?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-4ECDC4?style=for-the-badge)
+![Repository Pattern](https://img.shields.io/badge/Repository-95E1D3?style=for-the-badge)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Alims-Repo&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alims-Repo&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+
 </div>
 
 <div align="center">
-  <img height="300em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alims-repo&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=1a1b27&text_color=a9fef7&icon_color=f8d847&title_color=fe6e96" alt="Top Languages" />
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alims-Repo&theme=radical&hide_border=true)
+
 </div>
 
-## 🛠️ Technology Stack
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- 🚀 Building Your First Kotlin Multiplatform Library
+- 📱 Jetpack Compose Best Practices for Production Apps
+- 🕌 Creating Islamic Apps: Design Considerations
+- ⚡ Optimizing Android App Performance: A Developer's Guide
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🌟 Open Source Contributions
+
+I believe in giving back to the community that has given me so much. Here are some areas where I actively contribute:
+
+- 🔧 **Kotlin Multiplatform** - Bug fixes and feature additions
+- 📚 **Documentation** - Improving docs for KMM libraries
+- 🐛 **Issue Reporting** - Helping maintainers identify and reproduce bugs
+- 💬 **Community Support** - Answering questions on Stack Overflow and Reddit
+
+---
+
+## 💭 Philosophy
+
+> *"Strive not to be a success, but rather to be of value."* — Albert Einstein
+
+> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+
+> *"Make it work, make it right, make it fast."* — Kent Beck
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to interesting conversations and collaboration opportunities!
+
+- 💼 **Open to:** Freelance projects, interesting full-time opportunities, open-source collaboration
+- 🎯 **Best at:** Android development, KMM libraries, Islamic tech, clean architecture
+- 🌱 **Currently exploring:** iOS development, advanced animations, system design
 
 <div align="center">
-  <h3>Mobile Development</h3>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
-  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI" />
-  
-  <h3>Backend & Data</h3>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Room" />
-  <img src="https://img.shields.io/badge/Retrofit-00BFFF?style=for-the-badge&logo=square&logoColor=white" alt="Retrofit" />
-  
-  <h3>Tools & Platforms</h3>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/CI/CD-4285F4?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD" />
-  
-  <h3>IDEs & Environments</h3>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode" />
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-</div>
 
-## 🌟 Showcase Projects
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-2962FF?style=for-the-badge)](https://alims-repo.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/your-handle)
 
-<div align="center">
-  <a href="https://github.com/Alims-Repo/Prayer-Times-KMM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alims-repo&repo=Prayer-Times-KMM&theme=tokyonight&hide_border=true&bg_color=1a1b27&text_color=a9fef7&icon_color=f8d847&title_color=fe6e96" />
-  </a>
-  <a href="https://github.com/Alims-Repo/Quran-API">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alims-repo&repo=Quran-API&theme=tokyonight&hide_border=true&bg_color=1a1b27&text_color=a9fef7&icon_color=f8d847&title_color=fe6e96" />
-  </a>
-</div>
-
-## 🚀 Current Focus
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">What I'm Working On</h3>
-      <ul>
-        <li>📱 Building production-ready Android apps with Jetpack Compose</li>
-        <li>🔄 Implementing clean architecture patterns in mobile development</li>
-        <li>🌐 Creating seamless offline-first experiences</li>
-        <li>🍎 Exploring SwiftUI and iOS architecture patterns</li>
-        <li>🧪 Improving testing strategies for mobile applications</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3 align="center">Future Learning Path</h3>
-      <ul>
-        <li>🎯 Advanced animations and motion design</li>
-        <li>🔍 Deep dive into performance optimization</li>
-        <li>🧠 Exploring on-device ML for mobile</li>
-        <li>🔒 Mobile security best practices</li>
-        <li>🌉 Cross-platform development strategies</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-## 💡 Development Philosophy
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Clean_Code-3DDC84?style=for-the-badge" alt="Clean Code"/>
-        <p><small>Readable, maintainable, tested</small></p>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/User_First-FF6C37?style=for-the-badge" alt="User First"/>
-        <p><small>Intuitive, accessible, delightful</small></p>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Performance-4285F4?style=for-the-badge" alt="Performance"/>
-        <p><small>Fast, efficient, optimized</small></p>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Collaboration-F24E1E?style=for-the-badge" alt="Collaboration"/>
-        <p><small>Team-oriented, open-minded</small></p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 📜 Favorite Quotes
-
-<div align="center">
-  <div style="background-color: #1a1b27; padding: 10px; border-radius: 6px; margin-bottom: 10px;">
-    <p><i>"Strive not to be a success, but rather to be of value."</i></p>
-    <p>– Albert Einstein</p>
-  </div>
-  
-  <div style="background-color: #1a1b27; padding: 10px; border-radius: 6px;">
-    <p><i>"Code is like humor. When you have to explain it, it's bad."</i></p>
-    <p>– Cory House</p>
-  </div>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=alims-repo&style=for-the-badge&color=blue" alt="Profile Views"/>
 </div>
 
 ---
 
 <div align="center">
-  <a href="https://github.com/alims-repo">
-    <img src="https://img.shields.io/badge/Let's_Connect-4285F4?style=for-the-badge" alt="Let's Connect"/>
-  </a>
-  <p>💼 Open for collaborations and opportunities</p>
+
+### 📈 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=Alims-Repo&color=blueviolet&style=for-the-badge)
+
+**Thanks for visiting! ⭐️ Star some repos if you find them useful!**
+
+</div>
+
+---
+
+<div align="center">
+<sub>💡 <i>Pro tip: Pin your best projects on your profile to showcase your work!</i></sub>
 </div>
