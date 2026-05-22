@@ -187,14 +187,21 @@ Run any GGUF-format small/large language models locally, fully on-device on Andr
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Alims-Repo&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alims-Repo&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Alims-Repo&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/Alims-Repo)
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alims-Repo&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alims-Repo&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" height="170"/>
+&nbsp;
+<img src="https://streak-stats.demolab.com/?user=Alims-Repo&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alims-Repo&theme=redical&hide_border=true&area=true)](https://github.com/Alims-Repo)
 
 </div>
 
