@@ -193,9 +193,15 @@ Run any GGUF-format small/large language models locally, fully on-device on Andr
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alims-Repo&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alims-Repo&theme=radical" alt="Repos Per Language" height="170"/>
 &nbsp;
-<img src="https://streak-stats.demolab.com/?user=Alims-Repo&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alims-Repo&theme=radical" alt="Most Commit Language" height="170"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Alims-Repo&theme=radical&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
