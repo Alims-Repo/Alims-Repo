@@ -21,26 +21,27 @@ object AbdulAlim {
     val role = "Android & Kotlin Multiplatform Developer"
     val location = "Dhaka, Bangladesh 🇧🇩"
     val education = "BSc in Computer Science - Green University"
-    
+
     val languages = listOf("Kotlin", "Java", "Swift", "SQL", "JavaScript")
-    
+
     val expertise = listOf(
-        "Kotlin Multiplatform (KMM)",
+        "Kotlin Multiplatform (KMP)",
         "Jetpack Compose & SwiftUI",
         "Android Architecture (MVVM, MVI, Clean Architecture)",
         "Cross-Platform Development",
         "RESTful APIs & Firebase",
-        "Material Design & UI/UX"
+        "Payment Gateway Integration",
+        "On-Device AI / Local LLMs"
     )
-    
+
     val currentFocus = """
         Building scalable cross-platform mobile apps
-        Contributing to open-source KMM ecosystem
-        Creating beautiful, performant user experiences
+        Publishing open-source KMP libraries
+        Exploring on-device AI with local LLMs on Android
     """.trimIndent()
-    
+
     val lifePhilosophy = "Code elegantly, ship reliably, iterate constantly"
-    
+
     fun sayHi() {
         println("Thanks for visiting! Let's build something amazing together 🚀")
     }
@@ -57,49 +58,87 @@ AbdulAlim.sayHi()
 
 ## 🏆 Featured Projects
 
-### 🕌 [Deen ul Islam](https://github.com/Alims-Repo/Deen-ul-Islam)
-**The Complete Islamic Companion App**
+### 🎨 [FlowTab-CMP](https://github.com/Alims-Repo/FlowTab-CMP) ⭐ 10
+**Animated Bottom Navigation Bar for Compose Multiplatform**
 
-A comprehensive Islamic app designed by Muslims for Muslims worldwide. Provides prayer times, Qibla direction, Quran recitation, and more.
+A beautiful, animated bottom navigation bar for Compose Multiplatform with smooth transitions and customizable styles — supporting Android & iOS.
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpack-compose&logoColor=white)
-![Material3](https://img.shields.io/badge/Material_3-1976D2?style=flat-square)
+![KMP](https://img.shields.io/badge/Compose_Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-**Features:** Prayer Times • Qibla Compass • Quran Reader • Islamic Calendar • Hadith Collection • Dua Library
+**Features:** Smooth animations • Customizable styles • Android & iOS support • Zero boilerplate
 
 ---
 
-### 📿 [Prayer Times KMM](https://github.com/Alims-Repo/Prayer-Times-KMM)
+### 📿 [Prayer Times KMM](https://github.com/Alims-Repo/Prayer-Times-KMM) ⭐ 4
 **Cross-Platform Prayer Time Calculation Library**
 
-Lightweight Kotlin Multiplatform library for accurate Islamic prayer times across Android, iOS & JVM.
+A lightweight and accurate Kotlin Multiplatform library for calculating Islamic prayer times, inspired by the Adhan algorithm — optimized for Android, iOS, JVM, and beyond.
 
 ![KMM](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Maven Central](https://img.shields.io/maven-central/v/io.github.alims-repo/prayer-times-kmm?style=flat-square)
-![Downloads](https://img.shields.io/badge/downloads-1k+-brightgreen?style=flat-square)
 
-**Tech:** Astronomical calculations • 11+ methods • Madhab support • High-latitude handling
+**Tech:** Astronomical calculations • 11+ calculation methods • Madhab support • High-latitude handling
 
 ---
 
-### 🎨 [More Projects](https://github.com/Alims-Repo?tab=repositories)
+### 💳 [Bkash Android SDK](https://github.com/Alims-Repo/Bkash-Android-SDK) ⭐ 4
+**bKash Payment Gateway Integration for Android**
+
+A ready-to-use Android SDK for integrating bKash — Bangladesh's leading mobile payment gateway — into Android apps.
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+---
+
+### 🎬 [Scrapper](https://github.com/Alims-Repo/Scrapper) ⭐ 4
+**Social Media Video URL Scraper**
+
+A utility for scraping video URLs from TikTok, Facebook, Instagram, and Twitter.
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+---
+
+### 📄 [Pdf Generator](https://github.com/Alims-Repo/Pdf-Generator) ⭐ 3
+**Kotlin DSL for PDF Generation on Android**
+
+A lightweight Kotlin DSL for generating multi-page PDFs on Android with A4 support, tables, text, and automatic pagination.
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+---
+
+### 🚦 [Smart Traffic Management System](https://github.com/Alims-Repo/Smart-Traffic-Management-System) ⭐ 3
+**AI-Powered Traffic Management — Kotlin Multiplatform**
+
+Real-time traffic monitoring, adaptive signal control, and emergency vehicle prioritization across Android, iOS, Desktop, and Server platforms.
+
+![KMP](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![AI](https://img.shields.io/badge/AI_Powered-FF6B6B?style=flat-square)
+
+---
+
+### 🤖 [SmolChat Android](https://github.com/Alims-Repo/SmolChat-Android)
+**Run Local LLMs / SLMs On-Device on Android**
+
+Run any GGUF-format small/large language models locally, fully on-device on Android — no internet required.
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![On-Device AI](https://img.shields.io/badge/On--Device_AI-FF6B6B?style=flat-square)
+
+---
 
 <details>
-<summary><b>Click to see more projects</b></summary>
-
-#### 📱 Mobile Apps
-- **Task Manager Pro** - Productivity app with offline-first architecture
-- **Recipe Book** - Social cooking app with Firebase backend
-- **Weather Now** - Beautiful weather app with animated UI
+<summary><b>🔍 More Projects</b></summary>
 
 #### 🛠️ Libraries & Tools
-- **Compose Utilities** - Reusable Compose components collection
-- **Network Layer KMM** - Type-safe networking for KMP projects
-
-#### 🔬 Experiments & Learning
-- **Compose Canvas Art** - Creative animations and custom drawings
-- **KMP Samples** - Learning projects exploring KMP capabilities
+- **[Crash-Guard](https://github.com/Alims-Repo/Crash-Guard)** - Industry-grade Android crash handling with customizable crash screens & persistent logging
+- **[TaskFlow](https://github.com/Alims-Repo/TaskFlow)** - KMP task management app with Jetpack Compose, SwiftUI & Room
+- **[CallerID](https://github.com/Alims-Repo/CallerID)** - Mobile caller identification app with spam blocking & real-time caller info
 
 </details>
 
@@ -127,7 +166,7 @@ Lightweight Kotlin Multiplatform library for accurate Islamic prayer times acros
 
 ### Frameworks & Libraries
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
-![Kotlin Multiplatform](https://img.shields.io/badge/KMM-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Kotlin Multiplatform](https://img.shields.io/badge/KMP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
@@ -161,22 +200,12 @@ Lightweight Kotlin Multiplatform library for accurate Islamic prayer times acros
 
 ---
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 Building Your First Kotlin Multiplatform Library
-- 📱 Jetpack Compose Best Practices for Production Apps
-- 🕌 Creating Islamic Apps: Design Considerations
-- ⚡ Optimizing Android App Performance: A Developer's Guide
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 🌟 Open Source Contributions
 
 I believe in giving back to the community that has given me so much. Here are some areas where I actively contribute:
 
-- 🔧 **Kotlin Multiplatform** - Bug fixes and feature additions
+- 📦 **Publishing Libraries** - FlowTab-CMP, Prayer-Times-KMM, Pdf-Generator, Crash-Guard
+- 🔧 **Kotlin Multiplatform** - Bug fixes, feature additions, and sample projects
 - 📚 **Documentation** - Improving docs for KMM libraries
 - 🐛 **Issue Reporting** - Helping maintainers identify and reproduce bugs
 - 💬 **Community Support** - Answering questions on Stack Overflow and Reddit
@@ -199,14 +228,13 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 - 💼 **Open to:** Freelance projects, interesting full-time opportunities, open-source collaboration
 - 🎯 **Best at:** Android development, KMM libraries, Islamic tech, clean architecture
-- 🌱 **Currently exploring:** iOS development, advanced animations, system design
+- 🌱 **Currently exploring:** On-device AI, iOS development, advanced animations
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-2962FF?style=for-the-badge)](https://alims-repo.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/your-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdul-alim-monshi-5874511b2/)
+[![Email](https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail)](mailto:sourav.0.alim@gmail.com)
 
 </div>
 
