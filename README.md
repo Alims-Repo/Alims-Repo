@@ -31,7 +31,7 @@
 
 ### *Animated bottom navigation for Compose Multiplatform*
 
-<table>
+<table width="100%">
 <tr>
 <td align="center" width="50%">
 <img src="https://raw.githubusercontent.com/Alims-Repo/FlowTab-CMP/main/media/flowtab-demo-light.gif" width="240" alt="FlowTab light theme"/>
@@ -63,7 +63,7 @@ FlowTab(
 > Most navigation bars marry you to a navigation library. This one doesn't — pure state in, callbacks out.
 > It drops into **Navigation3, Decompose, Voyager, PreCompose, Appyx** or plain Compose state with no adapters.
 
-<table>
+<table width="100%">
 <tr>
 <td width="25%" align="center">🎭<br/><b>Glassmorphism</b><br/><sub>Real blur via Haze,<br/>not a fake overlay</sub></td>
 <td width="25%" align="center">🔍<br/><b>Expandable search</b><br/><sub>Grows out of the bar,<br/>callback-driven</sub></td>
@@ -90,10 +90,6 @@ FlowTab(
 
 ### *Annotation-driven navigation for Jetpack Compose*
 
-<a href="https://github.com/Alims-Repo/NavEase">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Alims-Repo&repo=NavEase&show_owner=false&title_color=7F52FF&icon_color=7F52FF&text_color=8B949E&bg_color=0D1117&border_color=30363D" alt="NavEase"/>
-</a>
-
 ![Status](https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-FFA657?style=for-the-badge&labelColor=1a1b27)
 ![Compose](https://img.shields.io/badge/JETPACK_COMPOSE-7F52FF?style=for-the-badge&labelColor=1a1b27)
 ![KSP](https://img.shields.io/badge/CODEGEN-7F52FF?style=for-the-badge&labelColor=1a1b27)
@@ -104,10 +100,31 @@ FlowTab(
 
 Compose navigation is boilerplate: route constants, manual argument parsing, type-unsafe string keys, and one giant `NavHost` every screen has to be registered in by hand. NavEase deletes that layer — routes, arguments and the graph itself are **generated at compile time**, so a broken route is a build error instead of a crash in production.
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" align="center">❌<br/><b>Without</b><br/><sub>String routes · manual args<br/>runtime failures · giant NavHost</sub></td>
-<td width="50%" align="center">✅<br/><b>With NavEase</b><br/><sub>Annotations · generated graph<br/>compile-time safety · zero wiring</sub></td>
+<th width="20%" align="left">&nbsp;</th>
+<th width="40%" align="left">❌ &nbsp;Plain Compose Navigation</th>
+<th width="40%" align="left">✅ &nbsp;With NavEase</th>
+</tr>
+<tr>
+<td align="left"><b>Routes</b></td>
+<td align="left"><sub>Hand-written string constants, duplicated across the codebase</sub></td>
+<td align="left"><sub>Generated from the annotation on the screen itself</sub></td>
+</tr>
+<tr>
+<td align="left"><b>Arguments</b></td>
+<td align="left"><sub>Manual parsing and unchecked casts out of the bundle</sub></td>
+<td align="left"><sub>Typed accessors, generated alongside the route</sub></td>
+</tr>
+<tr>
+<td align="left"><b>Graph</b></td>
+<td align="left"><sub>One giant <code>NavHost</code>, every screen registered by hand</sub></td>
+<td align="left"><sub>Assembled at compile time — nothing to register</sub></td>
+</tr>
+<tr>
+<td align="left"><b>A typo costs</b></td>
+<td align="left"><sub>A crash, in production, on a screen you didn't test</sub></td>
+<td align="left"><sub>A build error, on your machine, in seconds</sub></td>
 </tr>
 </table>
 
@@ -129,16 +146,9 @@ Paired with FlowTab-CMP it's the other half of one problem — **FlowTab handles
 
 ## 🔐 SecureVault-KMP &nbsp;·&nbsp; 📿 Prayer-Times-KMM
 
-<a href="https://github.com/Alims-Repo/SecureVault-KMP">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Alims-Repo&repo=SecureVault-KMP&show_owner=false&title_color=7F52FF&icon_color=7F52FF&text_color=8B949E&bg_color=0D1117&border_color=30363D" alt="SecureVault-KMP"/>
-</a>
-<a href="https://github.com/Alims-Repo/Prayer-Times-KMM">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Alims-Repo&repo=Prayer-Times-KMM&show_owner=false&title_color=7F52FF&icon_color=7F52FF&text_color=8B949E&bg_color=0D1117&border_color=30363D" alt="Prayer-Times-KMM"/>
-</a>
-
 </div>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -190,7 +200,7 @@ Adhan-inspired astronomical math ported to common Kotlin — **11+ calculation m
 
 </div>
 
-<table>
+<table width="100%">
 <tr><td width="22%"><b>UI</b></td><td>Jetpack Compose · Compose Multiplatform · Material 3 · SwiftUI</td></tr>
 <tr><td><b>Cross-platform</b></td><td>Kotlin Multiplatform · KMM · Ktor</td></tr>
 <tr><td><b>Architecture</b></td><td>Clean Architecture · MVVM · MVI · Repository pattern</td></tr>
@@ -206,7 +216,7 @@ Adhan-inspired astronomical math ported to common Kotlin — **11+ calculation m
 
 # 📦 Also Built
 
-<table>
+<table width="100%">
 <tr>
 <td width="33%" valign="top" align="center">
 
