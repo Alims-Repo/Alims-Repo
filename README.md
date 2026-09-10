@@ -1,264 +1,213 @@
-# Hi there, I'm Abdul Alim 👋
-
 <div align="center">
 
-### 🚀 Android & Kotlin Multiplatform Developer
+# Abdul Alim
 
-*Crafting exceptional mobile experiences where innovation meets reliability*
+**Android & Kotlin Multiplatform Developer**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-alims--repo.github.io-blue?style=for-the-badge&logo=github)](https://alims-repo.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdul-alim-monshi-5874511b2/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:sourav.0.alim@gmail.com)
+Building cross-platform mobile apps — and publishing the libraries I needed while building them.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-alims--repo.github.io-7F52FF?style=flat-square&logo=github&logoColor=white)](https://alims-repo.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul_Alim-7F52FF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-alim-monshi-5874511b2/)
+[![Email](https://img.shields.io/badge/Email-sourav.0.alim-7F52FF?style=flat-square&logo=gmail&logoColor=white)](mailto:sourav.0.alim@gmail.com)
+[![Maven Central](https://img.shields.io/badge/Maven_Central-io.github.alims--repo-7F52FF?style=flat-square&logo=apachemaven&logoColor=white)](https://central.sonatype.com/namespace/io.github.alims-repo)
+
+`Dhaka, Bangladesh` · `BSc Computer Science, Green University` · `Available for freelance & full-time`
 
 </div>
 
+<br/>
+
 ---
 
-## 👨‍💻 About Me
+## Featured Work
+
+Four libraries for the Compose Multiplatform ecosystem — navigation, routing, and secure storage.
+
+<br/>
+
+### FlowTab-CMP · Animated bottom navigation for Compose Multiplatform
+
+<div align="center">
+
+| Light | Dark |
+|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/Alims-Repo/FlowTab-CMP/main/media/flowtab-demo-light.gif" width="230" alt="FlowTab light theme"/> | <img src="https://raw.githubusercontent.com/Alims-Repo/FlowTab-CMP/main/media/flowtab-demo.gif" width="230" alt="FlowTab dark theme"/> |
+
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.alims-repo/flowtab-cmp?style=flat-square&label=maven%20central&color=7F52FF)](https://central.sonatype.com/artifact/io.github.alims-repo/flowtab-cmp)
+[![Stars](https://img.shields.io/github/stars/Alims-Repo/FlowTab-CMP?style=flat-square&color=7F52FF)](https://github.com/Alims-Repo/FlowTab-CMP/stargazers)
+![Kotlin](https://img.shields.io/badge/Kotlin-2.3.21-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Compose Multiplatform](https://img.shields.io/badge/Compose_MP-1.11.0-7F52FF?style=flat-square)
+![Platforms](https://img.shields.io/badge/Android_·_iOS-7F52FF?style=flat-square)
+
+</div>
 
 ```kotlin
-object AbdulAlim {
-    val role = "Android & Kotlin Multiplatform Developer"
-    val location = "Dhaka, Bangladesh 🇧🇩"
-    val education = "BSc in Computer Science - Green University"
-
-    val languages = listOf("Kotlin", "Java", "Swift", "SQL", "JavaScript")
-
-    val expertise = listOf(
-        "Kotlin Multiplatform (KMP)",
-        "Jetpack Compose & SwiftUI",
-        "Android Architecture (MVVM, MVI, Clean Architecture)",
-        "Cross-Platform Development",
-        "RESTful APIs & Firebase",
-        "Payment Gateway Integration",
-        "On-Device AI / Local LLMs"
-    )
-
-    val currentFocus = """
-        Building scalable cross-platform mobile apps
-        Publishing open-source KMP libraries
-        Exploring on-device AI with local LLMs on Android
-    """.trimIndent()
-
-    val lifePhilosophy = "Code elegantly, ship reliably, iterate constantly"
-
-    fun sayHi() {
-        println("Thanks for visiting! Let's build something amazing together 🚀")
-    }
-}
-
-AbdulAlim.sayHi()
+FlowTab(
+    items = tabs,
+    selected = current,
+    onSelect = { current = it },
+    indicator = Indicator.Ripple,
+    style = FlowTabStyle.Glass   // Haze-backed blur, optional
+)
 ```
 
-🎯 **Currently:** Freelance Android Developer building impactful mobile solutions  
-📚 **Learning:** Advanced Compose animations, KMP best practices, iOS development  
-💡 **Passionate about:** Islamic tech, developer tools, clean architecture  
+Most navigation bars marry you to a navigation library. This one doesn't — it's pure state in, callbacks out, so it drops into Navigation3, Decompose, Voyager, PreCompose, Appyx, or plain Compose state without adapters.
+
+- **Real glassmorphism** via [Haze](https://github.com/chrisbanes/haze), not a translucent overlay
+- **Expandable search** that grows out of the bar, fully callback-driven
+- **Three indicators** — ripple, dot, line — plus count and dot badges
+- **One source set** for `iosArm64`, `iosX64`, `iosSimulatorArm64` and Android
+
+[Documentation](https://alims-repo.github.io/FlowTab-CMP/) · [Source](https://github.com/Alims-Repo/FlowTab-CMP)
+
+<br/>
 
 ---
 
-## 🏆 Featured Projects
+<br/>
 
-### 🎨 [FlowTab-CMP](https://github.com/Alims-Repo/FlowTab-CMP) ⭐ 10
-**Animated Bottom Navigation Bar for Compose Multiplatform**
+### NavEase · Annotation-driven navigation for Jetpack Compose
 
-A beautiful, animated bottom navigation bar for Compose Multiplatform with smooth transitions and customizable styles — supporting Android & iOS.
+<div align="center">
 
-![KMP](https://img.shields.io/badge/Compose_Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
-
-**Features:** Smooth animations • Customizable styles • Android & iOS support • Zero boilerplate
-
----
-
-### 📿 [Prayer Times KMM](https://github.com/Alims-Repo/Prayer-Times-KMM) ⭐ 4
-**Cross-Platform Prayer Time Calculation Library**
-
-A lightweight and accurate Kotlin Multiplatform library for calculating Islamic prayer times, inspired by the Adhan algorithm — optimized for Android, iOS, JVM, and beyond.
-
-![KMM](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Maven Central](https://img.shields.io/maven-central/v/io.github.alims-repo/prayer-times-kmm?style=flat-square)
-
-**Tech:** Astronomical calculations • 11+ calculation methods • Madhab support • High-latitude handling
-
----
-
-### 💳 [Bkash Android SDK](https://github.com/Alims-Repo/Bkash-Android-SDK) ⭐ 4
-**bKash Payment Gateway Integration for Android**
-
-A ready-to-use Android SDK for integrating bKash — Bangladesh's leading mobile payment gateway — into Android apps.
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+[![Stars](https://img.shields.io/github/stars/Alims-Repo/NavEase?style=flat-square&color=7F52FF)](https://github.com/Alims-Repo/NavEase/stargazers)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Compose](https://img.shields.io/badge/Jetpack_Compose-7F52FF?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Status](https://img.shields.io/badge/status-in_development-orange?style=flat-square)
+
+</div>
+
+Compose navigation graphs are boilerplate: route constants, argument parsing, type-unsafe string keys, one giant `NavHost` that every screen has to be registered in by hand.
+
+NavEase removes that layer. **Annotate your screens, and the routing is generated for you** — routes, arguments and the graph itself, checked at compile time instead of discovered at runtime.
+
+Paired with FlowTab-CMP, it's the other half of the same problem: FlowTab handles what navigation *looks* like, NavEase handles how it's *wired*.
+
+[Documentation](https://alims-repo.github.io/NavEase/) · [Source](https://github.com/Alims-Repo/NavEase)
+
+<br/>
 
 ---
 
-### 🎬 [Scrapper](https://github.com/Alims-Repo/Scrapper) ⭐ 4
-**Social Media Video URL Scraper**
+<br/>
 
-A utility for scraping video URLs from TikTok, Facebook, Instagram, and Twitter.
+### SecureVault-KMP · Secret storage with native backends
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+<div align="center">
 
----
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.alims-repo/secure-vault?style=flat-square&label=maven%20central&color=7F52FF)](https://central.sonatype.com/artifact/io.github.alims-repo/secure-vault)
+![Kotlin](https://img.shields.io/badge/Kotlin-2.3-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Platforms](https://img.shields.io/badge/Android_·_iOS-7F52FF?style=flat-square)
 
-### 📄 [Pdf Generator](https://github.com/Alims-Repo/Pdf-Generator) ⭐ 3
-**Kotlin DSL for PDF Generation on Android**
+</div>
 
-A lightweight Kotlin DSL for generating multi-page PDFs on Android with A4 support, tables, text, and automatic pagination.
+```kotlin
+val vault = SecureVault("com.acme.auth")
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+vault.put("session", token)
+val session: String? = vault.get("session")
+```
 
----
+One coroutine-first API, two real platform backends: `EncryptedSharedPreferences` over the Android Keystore, and Keychain Services on iOS. **No hand-rolled cryptography** — the platform does the work it was designed to do. Ships an optional Compose Multiplatform integration as a separate artifact.
 
-### 🚦 [Smart Traffic Management System](https://github.com/Alims-Repo/Smart-Traffic-Management-System) ⭐ 3
-**AI-Powered Traffic Management — Kotlin Multiplatform**
+[Source](https://github.com/Alims-Repo/SecureVault-KMP)
 
-Real-time traffic monitoring, adaptive signal control, and emergency vehicle prioritization across Android, iOS, Desktop, and Server platforms.
-
-![KMP](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![AI](https://img.shields.io/badge/AI_Powered-FF6B6B?style=flat-square)
+<br/>
 
 ---
 
-### 🤖 [SmolChat Android](https://github.com/Alims-Repo/SmolChat-Android)
-**Run Local LLMs / SLMs On-Device on Android**
+<br/>
 
-Run any GGUF-format small/large language models locally, fully on-device on Android — no internet required.
+### Prayer-Times-KMM · Islamic prayer time calculation
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![On-Device AI](https://img.shields.io/badge/On--Device_AI-FF6B6B?style=flat-square)
+<div align="center">
+
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.alims-repo/prayer-times-kmm?style=flat-square&label=maven%20central&color=7F52FF)](https://central.sonatype.com/artifact/io.github.alims-repo/prayer-times-kmm)
+[![Stars](https://img.shields.io/github/stars/Alims-Repo/Prayer-Times-KMM?style=flat-square&color=7F52FF)](https://github.com/Alims-Repo/Prayer-Times-KMM/stargazers)
+![Platforms](https://img.shields.io/badge/Android_·_iOS_·_JVM-7F52FF?style=flat-square)
+
+</div>
+
+Adhan-inspired astronomical calculation, ported to common Kotlin. Solar-time math with **11+ calculation methods**, madhab selection for Asr, and proper high-latitude handling — the part most implementations get wrong. Zero platform dependencies, so the same result on every target.
+
+[Documentation](https://alims-repo.github.io/Prayer-Times-KMM/) · [Source](https://github.com/Alims-Repo/Prayer-Times-KMM)
+
+<br/>
 
 ---
+
+## Also Built
+
+| Project | What it is | |
+|---|---|---|
+| **[Smart Traffic Management System](https://github.com/Alims-Repo/Smart-Traffic-Management-System)** | Four-target KMP system — Android, iOS, Desktop and a Ktor server — for real-time monitoring, adaptive signal control and emergency vehicle priority | ![](https://img.shields.io/github/stars/Alims-Repo/Smart-Traffic-Management-System?style=flat-square&label=&color=7F52FF) |
+| **[CallerID](https://github.com/Alims-Repo/CallerID)** | Caller identification and spam blocking for Android — real-time lookup, blocklists, contact management | ![](https://img.shields.io/github/stars/Alims-Repo/CallerID?style=flat-square&label=&color=7F52FF) |
+| **[Bkash-Android-SDK](https://github.com/Alims-Repo/Bkash-Android-SDK)** | Drop-in Android SDK for bKash, Bangladesh's largest mobile payment gateway | ![](https://img.shields.io/github/stars/Alims-Repo/Bkash-Android-SDK?style=flat-square&label=&color=7F52FF) |
+| **[Pdf-Generator](https://github.com/Alims-Repo/Pdf-Generator)** | Kotlin DSL for multi-page A4 PDFs on Android — tables, text, automatic pagination | ![](https://img.shields.io/github/stars/Alims-Repo/Pdf-Generator?style=flat-square&label=&color=7F52FF) |
+| **[Crash-Guard](https://github.com/Alims-Repo/Crash-Guard)** | Android crash handling with customizable crash screens and persistent logging | ![](https://img.shields.io/github/stars/Alims-Repo/Crash-Guard?style=flat-square&label=&color=7F52FF) |
+| **[TaskFlow](https://github.com/Alims-Repo/TaskFlow)** | Offline-first KMP task manager — shared domain, Compose on Android, SwiftUI on iOS, Room + Koin | ![](https://img.shields.io/github/stars/Alims-Repo/TaskFlow?style=flat-square&label=&color=7F52FF) |
 
 <details>
-<summary><b>🔍 More Projects</b></summary>
+<summary><b>Experiments & older work</b></summary>
 
-#### 🛠️ Libraries & Tools
-- **[Crash-Guard](https://github.com/Alims-Repo/Crash-Guard)** - Industry-grade Android crash handling with customizable crash screens & persistent logging
-- **[TaskFlow](https://github.com/Alims-Repo/TaskFlow)** - KMP task management app with Jetpack Compose, SwiftUI & Room
-- **[CallerID](https://github.com/Alims-Repo/CallerID)** - Mobile caller identification app with spam blocking & real-time caller info
+<br/>
+
+- **[RefactoringPlan](https://github.com/Alims-Repo/RefactoringPlan)** — a structured modernisation plan for a seven-year-old legacy Android codebase: architecture, dependency debt, performance
+- **[Scrapper](https://github.com/Alims-Repo/Scrapper)** — video URL extraction from TikTok, Facebook, Instagram and X
+- **[SmolChat-Android](https://github.com/Alims-Repo/SmolChat-Android)** *(fork)* — running GGUF-format SLMs/LLMs fully on-device; my sandbox for on-device AI
 
 </details>
 
+<br/>
+
 ---
 
-## 💼 Core Values
+## Toolbox
+
+| | |
+|---|---|
+| **Languages** | Kotlin · Java · Swift · SQL |
+| **UI** | Jetpack Compose · Compose Multiplatform · Material 3 · SwiftUI |
+| **Cross-platform** | Kotlin Multiplatform · KMM · Ktor |
+| **Architecture** | Clean Architecture · MVVM · MVI · Repository pattern |
+| **Data & DI** | Room · SQLDelight · Koin · Firebase · DataStore |
+| **Build & release** | Gradle (Kotlin DSL) · Maven Central publishing · GitHub Actions |
+
+**Currently:** freelance Android development, maintaining the libraries above
+**Learning:** Compose animation internals, deeper iOS interop, on-device AI
+
+<br/>
+
+---
+
+## Activity
 
 <div align="center">
 
-| 🎯 Clean Code | 👤 User First | ⚡ Performance | 🤝 Collaboration |
-|:---:|:---:|:---:|:---:|
-| Readable, maintainable, tested | Intuitive, accessible, delightful | Fast, efficient, optimized | Team-oriented, open-minded |
+<img src="https://github-readme-stats.vercel.app/api?username=Alims-Repo&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=7F52FF&icon_color=7F52FF&text_color=8B949E&bg_color=00000000" alt="GitHub stats" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alims-Repo&layout=compact&hide_border=true&langs_count=6&title_color=7F52FF&text_color=8B949E&bg_color=00000000" alt="Top languages" height="160"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Alims-Repo&hide_border=true&ring=7F52FF&fire=7F52FF&currStreakLabel=7F52FF&background=00000000&stroke=30363D&sideLabels=8B949E&dates=6E7681" alt="Contribution streak" height="160"/>
 
 </div>
 
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Frameworks & Libraries
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
-![Kotlin Multiplatform](https://img.shields.io/badge/KMP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Architecture & Patterns
-![MVVM](https://img.shields.io/badge/MVVM-FF6B6B?style=for-the-badge)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-4ECDC4?style=for-the-badge)
-![Repository Pattern](https://img.shields.io/badge/Repository-95E1D3?style=for-the-badge)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Alims-Repo&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/Alims-Repo)
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alims-Repo&theme=radical" alt="Repos Per Language" height="170"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alims-Repo&theme=radical" alt="Most Commit Language" height="170"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Alims-Repo&theme=radical&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alims-Repo&theme=redical&hide_border=true&area=true)](https://github.com/Alims-Repo)
-
-</div>
-
----
-
-## 🌟 Open Source Contributions
-
-I believe in giving back to the community that has given me so much. Here are some areas where I actively contribute:
-
-- 📦 **Publishing Libraries** - FlowTab-CMP, Prayer-Times-KMM, Pdf-Generator, Crash-Guard
-- 🔧 **Kotlin Multiplatform** - Bug fixes, feature additions, and sample projects
-- 📚 **Documentation** - Improving docs for KMM libraries
-- 🐛 **Issue Reporting** - Helping maintainers identify and reproduce bugs
-- 💬 **Community Support** - Answering questions on Stack Overflow and Reddit
-
----
-
-## 💭 Philosophy
-
-> *"Strive not to be a success, but rather to be of value."* — Albert Einstein
-
-> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
-
-> *"Make it work, make it right, make it fast."* — Kent Beck
-
----
-
-## 🤝 Let's Connect
-
-I'm always open to interesting conversations and collaboration opportunities!
-
-- 💼 **Open to:** Freelance projects, interesting full-time opportunities, open-source collaboration
-- 🎯 **Best at:** Android development, KMM libraries, Islamic tech, clean architecture
-- 🌱 **Currently exploring:** On-device AI, iOS development, advanced animations
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-2962FF?style=for-the-badge)](https://alims-repo.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdul-alim-monshi-5874511b2/)
-[![Email](https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail)](mailto:sourav.0.alim@gmail.com)
-
-</div>
+<br/>
 
 ---
 
 <div align="center">
 
-### 📈 Profile Views
+### Let's build something
 
-![Profile Views](https://komarev.com/ghpvc/?username=Alims-Repo&color=blueviolet&style=for-the-badge)
+Open to freelance work, full-time roles, and open-source collaboration.
 
-**Thanks for visiting! ⭐️ Star some repos if you find them useful!**
+[![Portfolio](https://img.shields.io/badge/Portfolio-7F52FF?style=for-the-badge&logo=github&logoColor=white)](https://alims-repo.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7F52FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-alim-monshi-5874511b2/)
+[![Email](https://img.shields.io/badge/Email-7F52FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sourav.0.alim@gmail.com)
+
+<sub>A star on anything useful goes a long way.</sub>
 
 </div>
